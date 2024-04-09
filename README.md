@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nazmus.shakib1017@gmail.com**
 
-- ⚡ Fun fact **Life is Fun**
+- ⚡ Fun fact  **Life is Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
