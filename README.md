@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Nazmus Shakib Khan</h1>
 <h3 align="center">A software engineering student from Bangladesh</h3>
 
-<img align="right" alt="sk" width="400" src="![image](https://github.com/Md-Nazmus-Shakib/Md-Nazmus-Shakib/assets/105985762/9e6705c1-2a67-4bfe-9b8d-145119217b0c)
-">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-nazmus-shakib&label=Profile%20views&color=0e75b6&style=flat" alt="md-nazmus-shakib"/></p>
 
